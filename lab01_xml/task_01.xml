@@ -1,0 +1,16 @@
+<brand>
+<name id='11' status='1'>samsung</name>
+<price>35000</price>
+<stock>50</stock>
+
+<name id='20'status='0'>htc</name>
+<price>65300</price>
+<stock>35</stock>
+
+<name id='23' status='1'>nokia</name>
+<price>25100</price>
+<stock>100</stock>
+
+
+
+</brand>
